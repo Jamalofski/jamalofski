@@ -1,6 +1,6 @@
 I'm a software architect in Bordeaux, France. This account holds the integrations and SDKs of two APIs I build and run.
 
-## conv2pdf
+## Conv2pdf
 
 [conv2pdf](https://conv2pdf.com/en/api/) converts Office documents, images and e-books to PDF, and merges, compresses and protects PDFs. Files are processed on servers in the EU (France) and deleted after one hour, or after 72 hours when a conversion fails.
 
