@@ -18,6 +18,7 @@ I'm a software architect in Bordeaux, France. This account holds the integration
 - [n8n-nodes-mailprobe](https://github.com/jamalofski/n8n-nodes-mailprobe), n8n node
 - [zapier-mailprobe](https://github.com/jamalofski/zapier-mailprobe), Zapier integration
 - [make-mailprobe](https://github.com/jamalofski/make-mailprobe), Make app
+- [mailprobe-wordpress](https://github.com/jamalofski/mailprobe-wordpress), WordPress and WooCommerce plugin
 
 ## Other products
 
