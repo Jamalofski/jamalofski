@@ -28,6 +28,7 @@ I'm a software architect in Bordeaux, France. This account holds the integration
 ## Also here
 
 - [libmongoc-binaries](https://github.com/jamalofski/libmongoc-binaries), prebuilt binaries of the MongoDB C Driver for Windows and Linux, with the DLL names Delphi FireDAC expects
+- [php-eol-security](https://github.com/jamalofski/php-eol-security), unofficial Windows builds of end-of-life PHP versions with security fixes applied
 
 ## Contact
 
