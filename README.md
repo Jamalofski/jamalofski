@@ -1,4 +1,4 @@
-I'm a software architect in Bordeaux, France. I make PDFKiln, an open-source replacement for wkhtmltopdf, and build and run two APIs, Conv2pdf and MailProbe. This account holds the integrations and SDKs of the APIs and a few other open-source tools; PDFKiln has its own organization, [pdfkiln](https://github.com/pdfkiln).
+I'm a software architect in Bordeaux, France. I make PDFKiln, an open-source replacement for wkhtmltopdf, and build and run two APIs, Conv2pdf and MailProbe. This account holds the integrations and SDKs of Conv2pdf and a few other open-source tools; PDFKiln and MailProbe have their own organizations, [pdfkiln](https://github.com/pdfkiln) and [MailProbe](https://github.com/MailProbe).
 
 ## PDFKiln
 
@@ -30,11 +30,11 @@ MailProbe checks whether an email address exists and can receive mail, without s
 
 [mailprobe.dev](https://mailprobe.dev) · [API](https://mailprobe.dev/api-docs/)
 
-- [mailprobe-mcp](https://github.com/jamalofski/mailprobe-mcp), MCP server and Claude Code plugin
-- [n8n-nodes-mailprobe](https://github.com/jamalofski/n8n-nodes-mailprobe), n8n node
-- [zapier-mailprobe](https://github.com/jamalofski/zapier-mailprobe), Zapier integration
-- [make-mailprobe](https://github.com/jamalofski/make-mailprobe), Make app
-- [mailprobe-wordpress](https://github.com/jamalofski/mailprobe-wordpress), WordPress and WooCommerce plugin
+- [mcp](https://github.com/MailProbe/mcp), MCP server and Claude Code plugin
+- [n8n](https://github.com/MailProbe/n8n), n8n node
+- [zapier](https://github.com/MailProbe/zapier), Zapier integration
+- [make](https://github.com/MailProbe/make), Make app
+- [wordpress](https://github.com/MailProbe/wordpress), WordPress and WooCommerce plugin
 
 ## Other open source
 
