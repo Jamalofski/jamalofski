@@ -1,4 +1,4 @@
-I'm a software architect in Bordeaux, France. I make PDFKiln, an open-source replacement for wkhtmltopdf, and build and run two APIs, Conv2pdf and MailProbe. This account holds the integrations and SDKs of Conv2pdf and a few other open-source tools; PDFKiln and MailProbe have their own organizations, [pdfkiln](https://github.com/pdfkiln) and [mailprobe](https://github.com/mailprobe).
+I'm a software architect in Bordeaux, France. I make PDFKiln, an open-source replacement for wkhtmltopdf, and build and run two APIs, Conv2pdf and MailProbe. Each one has its own organization, [pdfkiln](https://github.com/pdfkiln), [conv2pdf](https://github.com/conv2pdf) and [mailprobe](https://github.com/mailprobe), with its integrations and SDKs; this account holds a few other open-source tools.
 
 ## PDFKiln
 
@@ -18,11 +18,11 @@ Conv2pdf is a PDF API with 19 tools: it converts Office documents, images, e-boo
 
 [conv2pdf.com](https://conv2pdf.com/en/) · [API](https://conv2pdf.com/en/api/)
 
-- [conv2pdf-mcp](https://github.com/jamalofski/conv2pdf-mcp), MCP server and Claude Code plugin
-- [n8n-nodes-conv2pdf](https://github.com/jamalofski/n8n-nodes-conv2pdf), n8n node
-- [zapier-conv2pdf](https://github.com/jamalofski/zapier-conv2pdf), Zapier integration
-- [make-conv2pdf](https://github.com/jamalofski/make-conv2pdf), Make app
-- [conv2pdf-php](https://github.com/jamalofski/conv2pdf-php), PHP SDK
+- [mcp](https://github.com/conv2pdf/mcp), MCP server and Claude Code plugin
+- [n8n](https://github.com/conv2pdf/n8n), n8n node
+- [zapier](https://github.com/conv2pdf/zapier), Zapier integration
+- [make](https://github.com/conv2pdf/make), Make app
+- [php](https://github.com/conv2pdf/php), PHP SDK
 
 ## MailProbe
 
