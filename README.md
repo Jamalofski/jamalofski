@@ -14,7 +14,7 @@ PDFKiln is a drop-in replacement for wkhtmltopdf, which is archived: the same co
 
 ## Conv2pdf
 
-Conv2pdf converts Office documents, images and e-books to PDF, and merges, compresses and protects PDFs. Files are processed on servers in the EU (France) and deleted after one hour, or after 72 hours when a conversion fails.
+Conv2pdf is a PDF API with 19 tools: it converts Office documents, images, e-books and web pages to PDF, and PDFs to Word or images, and merges, splits, compresses and protects PDFs. Files are processed on servers in the EU (France) and deleted after one hour, or after 72 hours when a conversion fails.
 
 [conv2pdf.com](https://conv2pdf.com/en/) · [API](https://conv2pdf.com/en/api/)
 
