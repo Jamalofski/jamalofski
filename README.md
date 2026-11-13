@@ -38,6 +38,7 @@ MailProbe checks whether an email address exists and can receive mail, without s
 
 ## Other open source
 
+- [simple-qrcode](https://github.com/jamalofski/simple-qrcode), a maintained fork of simplesoftwareio/simple-qrcode, the QR code generator for Laravel: same API, and it installs next to Laravel Fortify and the official starter kits
 - [php-eol-security](https://github.com/jamalofski/php-eol-security), unofficial Windows builds of end-of-life PHP versions (7.4, 8.0, 8.1) with security fixes applied
 - [libmongoc-binaries](https://github.com/jamalofski/libmongoc-binaries), prebuilt binaries of the MongoDB C Driver for Windows and Linux, with the DLL names Delphi FireDAC expects
 
