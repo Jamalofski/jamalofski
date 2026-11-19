@@ -1,4 +1,4 @@
-I'm a software architect in Bordeaux, France. I make PDFKiln, an open-source replacement for wkhtmltopdf, and build and run two APIs, Conv2pdf and MailProbe. Each one has its own organization, [pdfkiln](https://github.com/pdfkiln), [conv2pdf](https://github.com/conv2pdf) and [mailprobe](https://github.com/mailprobe), with its integrations and SDKs; this account holds a few other open-source tools.
+I'm a software architect and fractional CTO in Bordeaux, France, with 20 years in SaaS and banking systems. I make PDFKiln, an open-source replacement for wkhtmltopdf, and build and run two APIs, Conv2pdf and MailProbe. Each one has its own organization, [pdfkiln](https://github.com/pdfkiln), [conv2pdf](https://github.com/conv2pdf) and [mailprobe](https://github.com/mailprobe), with its integrations and SDKs; this account holds a few other open-source tools.
 
 ## PDFKiln
 
