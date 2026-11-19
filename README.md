@@ -14,7 +14,7 @@ PDFKiln is a drop-in replacement for wkhtmltopdf, which is archived: the same co
 
 ## Conv2pdf
 
-Conv2pdf is a PDF API with 19 tools: it converts Office documents, images, e-books and web pages to PDF, and PDFs to Word or images, and merges, splits, compresses and protects PDFs. Files are processed on servers in the EU (France) and deleted after one hour, or after 72 hours when a conversion fails.
+Conv2pdf has 24 PDF tools, on its site and through its API: it converts Office documents, images, e-books and web pages to PDF, and PDFs to Word or images, and merges, splits, compresses and protects PDFs. Files are processed on servers in the EU (France) and deleted after one hour, or after 72 hours when a conversion fails.
 
 [conv2pdf.com](https://conv2pdf.com/en/) · [API](https://conv2pdf.com/en/api/)
 
@@ -39,7 +39,7 @@ MailProbe checks whether an email address exists and can receive mail, without s
 ## Other open source
 
 - [simple-qrcode](https://github.com/jamalofski/simple-qrcode), a maintained fork of simplesoftwareio/simple-qrcode, the QR code generator for Laravel: same API, and it installs next to Laravel Fortify and the official starter kits
-- [php-eol-security](https://github.com/jamalofski/php-eol-security), unofficial Windows builds of end-of-life PHP versions (7.4, 8.0, 8.1) with security fixes applied
+- [php-eol-security](https://github.com/jamalofski/php-eol-security), unofficial Windows builds of end-of-life PHP versions (7.2, 7.3, 7.4, 8.0, 8.1) with security fixes applied
 - [libmongoc-binaries](https://github.com/jamalofski/libmongoc-binaries), prebuilt binaries of the MongoDB C Driver for Windows and Linux, with the DLL names Delphi FireDAC expects
 
 ## Other products
